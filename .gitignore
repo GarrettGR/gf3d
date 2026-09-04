@@ -57,3 +57,6 @@ gf3d
 
 # direnv cache
 .direnv/
+
+# IDE settings
+.idea/
